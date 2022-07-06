@@ -126,7 +126,7 @@
         "sqlite3": "^4.0.8",
         "sqlite3-transactions": "0.0.5",
         "stratum": "git://github.com/dev-jbam/node-stratum.git",
-        "typeorm": "^0.2.7",
+        "typeorm": "^0.3.0",
         "uglifyjs-webpack-plugin": "^2.0.1"
     }
 }
